@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206449289930",
+    "firebase_url": "https://smartelecticity1-default-rtdb.firebaseio.com",
+    "project_id": "smartelecticity1",
+    "storage_bucket": "smartelecticity1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206449289930:android:822868902d366c0d3ba233",
+        "android_client_info": {
+          "package_name": "com.example.smartelectricity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206449289930-k59mqvlrmu10e5i4f5n30ao1kff5o3u8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartelectricity",
+            "certificate_hash": "6f7ab05a7a3d270d4169bc8b72fe93ca0cc7fd1d"
+          }
+        },
+        {
+          "client_id": "206449289930-m0asjk250s0a9a0qchmb91p2ebbd4tjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgaAQMMl5T-qZ6m_3g92ZHPRhpdNShJKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206449289930-m0asjk250s0a9a0qchmb91p2ebbd4tjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
